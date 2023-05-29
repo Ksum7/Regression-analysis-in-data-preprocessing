@@ -1,1 +1,1 @@
-# Regression-analysis-in-data-preprocessing
+# Код к курсовой работе Регрессионный анализ в предобработке данных
